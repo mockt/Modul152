@@ -4,6 +4,10 @@
   padding: 1em;
 }
 
+h2{
+  text-align: center;
+}
+
 .nav{
   display: flex;
   justify-content: space-around;
@@ -12,9 +16,15 @@
 a{
   color: black;
   margin: 1em;
+  width: 30vh;
+  text-align: center;
   text-decoration: none;
+  background-color: white;
+  padding: 1em;
+  box-shadow: 10px 10px 15px silver;
+  border-radius: 20px;
 }
 
 a:hover {
-  text-decoration: transparent;
+  text-decoration: #9999FF;
 }
