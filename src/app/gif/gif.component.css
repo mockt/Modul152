@@ -19,6 +19,7 @@
   animation: textclip 3s linear infinite;
   font-size: 8em;
   text-align: center;
+  margin-top: 2em;
 }
 
 @keyframes textclip {

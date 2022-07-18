@@ -15,9 +15,7 @@ with a fixed width and height */
   float: right;
   height: 510px;
   width: 728px;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
+
 }
 
 /* Add animation to the slides */
