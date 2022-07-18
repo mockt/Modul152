@@ -1,0 +1,12 @@
+.videoContainer{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  padding: 1em;
+}
+
+iframe{
+  position: center;
+  width: auto;
+  height: 25em;
+}
